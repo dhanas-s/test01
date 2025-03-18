@@ -8,7 +8,8 @@ public class Test01Application {
 
 	public static void main(String[] args) {
 
-		String s = "dhana";
+		String s = "dhananandhan";
+int cx = 1000;
 		SpringApplication.run(Test01Application.class, args);
 	}
 
