@@ -11,6 +11,7 @@ public class Test01Application {
 		String s = "dhananandhan";
 int cx = 1000;
 		double dd= 5266.156d;
+		String s = "free";
 		SpringApplication.run(Test01Application.class, args);
 	}
 
