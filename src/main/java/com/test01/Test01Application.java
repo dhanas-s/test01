@@ -13,6 +13,7 @@ public class Test01Application {
         int x= 1000;
         System.out.print(x);
 		int y =100;
+		char ses = m;
 		SpringApplication.run(Test01Application.class, args);
 	}
 
