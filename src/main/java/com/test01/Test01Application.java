@@ -12,6 +12,9 @@ public class Test01Application {
 int cx = 1000;
 		double dd= 5266.156d;
 long l =6456564456;
+
+		String s = "free";
+
 		SpringApplication.run(Test01Application.class, args);
 	}
 
