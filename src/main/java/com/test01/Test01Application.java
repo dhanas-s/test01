@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test01Application {
 
 	public static void main(String[] args) {
+
+		String s = "dhana";
 		SpringApplication.run(Test01Application.class, args);
 	}
 
